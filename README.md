@@ -2,7 +2,7 @@
 
 A real-time collaborative text and code editor with project management, user authentication, and a built-in terminal.
 
-![CodeCollab Screenshot](https://via.placeholder.com/1200x630?text=CodeCollab+Screenshot)
+![CodeCollab Screenshot](main.png)
 
 ## Features
 
