@@ -2,7 +2,7 @@
 
 A real-time collaborative text and code editor with project management, user authentication, and a built-in terminal.
 
-![CodeCollab Screenshot](main.png)
+![CodeCollab Screenshot](./public/main.png)
 
 ## Features
 
@@ -43,7 +43,7 @@ A real-time collaborative text and code editor with project management, user aut
 #### Option 2: Clone the repository
 
 \`\`\`bash
-git clone https://github.com/yourusername/codecollab.git
+git clone https://github.com/raselahmedweb/code-collab.git
 cd codecollab
 \`\`\`
 
@@ -190,5 +190,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Yjs](https://yjs.dev/)
 
 ---
-
-Created with ❤️ using [v0](https://v0.dev)
